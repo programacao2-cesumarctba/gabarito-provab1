@@ -1,0 +1,7 @@
+Questão 1 - A 
+
+Model - Responsavel por todos os IO's do sistema (banco de dados, arquivo, etc...) e por gerenciar os 
+        modelos de negocio. 
+Controller - Responsavel por gerenciar as rotas da aplicação, recebe as requisições e distribui corretamente
+            retornando as resposta para quem requisitou, controla a logica de aplicação.
+View  - Responsavel por renderizar e tratar tudo que é exibido para o usuário. 

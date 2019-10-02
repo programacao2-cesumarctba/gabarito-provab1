@@ -1,0 +1,7 @@
+questão 5 - V (Herença e Métodos)
+
+A Herença permite que classes inferiores da mesma hierarquia herdem, reescreva
+ou acresente novos métodos e propriedades.
+
+
+questão 6 - III (Servir como guia para as classes que a herdarão).

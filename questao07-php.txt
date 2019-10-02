@@ -1,0 +1,12 @@
+<?php 
+
+class Aula
+{
+    private $professor;
+
+    public function __construct(Professor $p)
+    {
+        $this->professor = $p;
+    }
+}
+

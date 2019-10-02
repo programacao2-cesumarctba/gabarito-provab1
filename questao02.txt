@@ -1,0 +1,5 @@
+Util::debug(); // php
+Util.debug(); // java
+
+Pois a o método debug(); é do tipo static, então não é devemos 
+instanciar, para utiliza-lo  basta chamar diretamente na classe. 

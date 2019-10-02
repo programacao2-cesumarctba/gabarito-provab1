@@ -1,0 +1,9 @@
+O motivo do erro é que em métodos abstratos não pode haver nenhuma
+implementaçao de logica. 
+No momento em há em retorno se caracteriza uma implementação gerando um
+erro no sistema. 
+
+final class Prova
+{
+    abstract protecded function retornaJson() {}; 
+}

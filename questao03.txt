@@ -1,0 +1,13 @@
+<?php
+
+class Baleia extends Mamifero
+{
+    public function respirar()
+    {
+        echo "Baleia respirando";
+        parent::respirar();
+        // java super.respirar(); 
+    }
+}
+
+

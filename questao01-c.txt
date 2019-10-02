@@ -1,0 +1,3 @@
+O metodo loadView espera um array como segundo pois toda 
+informação do controller para ser injetada para a camada de view 
+deve ser passada neste array.

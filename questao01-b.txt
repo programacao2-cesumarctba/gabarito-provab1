@@ -1,0 +1,9 @@
+<?php
+
+class SuaClasse extends CI_Controller 
+{
+    public function respostaMetodo()
+    {
+        echo $_GET['id'];
+    }
+}
